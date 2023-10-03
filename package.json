@@ -1,0 +1,37 @@
+{
+  "name": "p5.extends",
+  "version": "1.0.0",
+  "description": "a library which extends p5 to include polar coordinate support",
+  "main": "p5.Polar.js",
+  "scripts": {
+    "test": "jest",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theomantz/p5.Polar.git"
+  },
+  "keywords": [
+    "p5",
+    "p5.js",
+    "p5.Polar.js"
+  ],
+  "author": "Liz Peng, Theo Mantz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theomantz/p5.Polar/issues"
+  },
+  "homepage": "https://github.com/theomantz/p5.Polar#readme",
+  "dependencies": {
+    "p5": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "@types/p5": "^1.7.0",
+    "jest": "^29.7.0",
+    "jest-canvas-mock": "^2.5.2",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  }
+}
