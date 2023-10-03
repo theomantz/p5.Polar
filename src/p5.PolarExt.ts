@@ -20,4 +20,4 @@ p5.prototype.linearDrawCallback = function (_num, _totaldistance, drawCallbackLi
   }
 }
 
-export default p5;
+export default p5

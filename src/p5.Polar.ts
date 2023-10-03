@@ -13,7 +13,7 @@
 // Created by Liz Peng
 // Version 2.3 Sep 5th 2023             
 
-import * as p5 from "p5";
+import p5 from "p5";
 
 
 /**
